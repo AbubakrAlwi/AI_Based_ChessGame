@@ -1,5 +1,3 @@
-# AI_Based_ChessGame
-Chess Game using C++
 # README.md
 
 # AI-Based Chess Game (C++)
